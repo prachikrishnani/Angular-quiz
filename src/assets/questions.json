@@ -1,0 +1,184 @@
+{
+    "questions": [{
+            "questionText": "Which monument was built to commemorate the visit of King George V and Queen Mary to Bombay?",
+            "options": [{
+                    "text": "The Gateway of India",
+                    "correct": true
+                },
+                {
+                    "text": "India Gate"
+                },
+                {
+                    "text": "Victoria Terminus"
+                },
+                {
+                    "text": "Elephanta Caves"
+                }
+            ],
+            "explanation": "TS uses a colon (:) to separate the property name from the property type"
+        },
+        {
+            "questionText": "Officially, Indian Republic Day celebration continues for a duration of ?",
+            "options": [{
+                    "text": "Two days"
+                },
+                {
+                    "text": "Four days"
+                },
+                {
+                    "text": "One day"
+                },
+                {
+                    "text": "Three days",
+                    "correct": true
+                }
+            ],
+            "explanation": "enum is not used as a type in TypeScript"
+        },
+
+        {
+            "questionText": "What is the name of India's National Aquatic Animal?",
+            "options": [{
+                    "text": "Crocodile"
+                },
+                {
+                    "text": "Green Frog"
+                },
+                {
+                    "text": "Katla Fish"
+                },
+                {
+                    "text": "The Ganges River Dolphin",
+                    "correct": true
+                }
+            ],
+            "explanation": "enum is not used as a type in TypeScript"
+        },
+        {
+            "questionText": "What was the code name of the first nuclear tests conducted by india in on 18 May 1974, in Pokhran, Rajasthan?",
+            "options": [{
+                    "text": "Operation Vijay"
+                },
+                {
+                    "text": "Operation Smiling Buddha",
+                    "correct": true
+                },
+                {
+                    "text": "Operation Shakti"
+                },
+                {
+                    "text": "Operation Ashwamedh"
+                }
+            ],
+            "explanation": "interfaces are typically used to list the properties and methods for an object"
+        },
+        {
+            "questionText": "Which state is known as India's Spice Garden?",
+            "options": [{
+                    "text": "Karnataka"
+                },
+                {
+                    "text": "Kerala",
+                    "correct": true
+                },
+                {
+                    "text": "Assam"
+                },
+                {
+                    "text": "Andhra Pradesh"
+                }
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        },
+        {
+            "questionText": "Where the India's first Defence University is located?",
+            "options": [{
+                    "text": "Haryana",
+                    "correct": true
+                },
+                {
+                    "text": "Karnataka"
+                },
+                {
+                    "text": "Kerala"
+                },
+                {
+                    "text": "Uttar Pradesh"
+                }
+            ],
+            "explanation": "a constructor is used by a class to take in parameters"
+        },
+        {
+            "questionText": "Biggest District in India",
+            "options": [{
+                    "text": "Leh, Jammu and Kashmir"
+                },
+                {
+                    "text": "Bikaner, Rajasthan"
+                },
+                {
+                    "text": "Jodhpur, Rajasthan"
+                },
+                {
+                    "text": "Kutch, Gujarat",
+                    "correct": true
+                }
+            ],
+            "explanation": "async is not used as an access modifier type in TypeScript"
+        },
+        {
+            "questionText": "Total number of caves present in the Ajanta Caves, Maharshtra is?",
+            "options": [{
+                    "text": "32"
+                },
+                {
+                    "text": "30",
+                    "correct": true
+                },
+                {
+                    "text": "40"
+                },
+                {
+                    "text": "42"
+                }
+            ],
+            "explanation": "the export keyword allows for the information to be transmitted between files"
+        },
+        {
+            "questionText": "Who has delivered longest ever speech in United Nations Security Council?",
+            "options": [{
+                    "text": "VK Krishna Menon",
+                    "correct": true
+                },
+                {
+                    "text": "Jawaharlal Nehru"
+                },
+                {
+                    "text": "Atal Bihari Vajpayee"
+                },
+                {
+                    "text": "Vallabhbhai Patel"
+                }
+            ],
+            "explanation": "filter is a method used to conditionally create a new array"
+        },
+        {
+            "questionText": "The first Indian newspaper to offer an online edition on internet?",
+            "options": [{
+                    "text": "The Hindu",
+                    "correct": true
+                },
+                {
+                    "text": "Times of India"
+                },
+                {
+                    "text": "Hindustan Times"
+                },
+                {
+                    "text": "Anandabazar Patrika"
+                }
+            ],
+            "explanation": "this.propertyName is the way to access a specific property within a class"
+        }
+    ]
+}
